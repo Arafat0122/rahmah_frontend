@@ -1,0 +1,122 @@
+[
+    {
+        "_id": "68397206748c8585c02e1cda",
+        "jobTitle": "A tutor for Hifz",
+        "teacherType": {
+            "label": "Private Teacher",
+            "value": "private_teacher"
+        },
+        "category": [
+            {
+                "label": "Quran Teacher",
+                "value": "quran_teacher"
+            }
+        ],
+        "jobDescription": "I need a teacher for my son, who is 12 years old, to guide him to memorize the Quran.",
+        "qualifications": "Must complete Hifz from a recognized academy or institute",
+        "minSalary": "3",
+        "maxSalary": "5",
+        "genderPreference": {
+            "label": "Male",
+            "value": "male"
+        },
+        "hoursPerWeek": "3",
+        "howManyDays": "301",
+        "userId": "67d9a928efecd5024be7a638",
+        "userEmail": "soyebarafat0122@gmail.com",
+        "userName": "Soyeb Ahmed Arafat",
+        "createdAt": "2025-05-30T08:53:26.507Z",
+        "status": "Pending",
+        "jobStatus": "Open"
+    },
+    {
+        "_id": "68398007748c8585c02e1cdb",
+        "jobTitle": "A Quran tutor",
+        "teacherType": {
+            "label": "Private Teacher",
+            "value": "private_teacher"
+        },
+        "category": [
+            {
+                "label": "Quran Teacher",
+                "value": "quran_teacher"
+            }
+        ],
+        "jobDescription": "I need a tutor for learning the basics of reading the Quran",
+        "qualifications": "Must be a good tutor",
+        "minSalary": "3",
+        "maxSalary": "5",
+        "genderPreference": {
+            "label": "Male",
+            "value": "male"
+        },
+        "hoursPerWeek": "3",
+        "howManyDays": "30",
+        "userId": "67d9a928efecd5024be7a638",
+        "userEmail": "soyebarafat0122@gmail.com",
+        "userName": "Soyeb Ahmed Arafat",
+        "createdAt": "2025-05-30T09:53:11.223Z",
+        "status": "Pending",
+        "jobStatus": "Open"
+    },
+    {
+        "_id": "68398007748c8585c02e1cdb",
+        "jobTitle": "A Quran tutor",
+        "teacherType": {
+            "label": "Private Teacher",
+            "value": "private_teacher"
+        },
+        "category": [
+            {
+                "label": "Quran Teacher",
+                "value": "quran_teacher"
+            }
+        ],
+        "jobDescription": "I need a tutor for learning the basics of reading the Quran",
+        "qualifications": "Must be a good tutor",
+        "minSalary": "3",
+        "maxSalary": "5",
+        "genderPreference": {
+            "label": "Male",
+            "value": "male"
+        },
+        "hoursPerWeek": "3",
+        "howManyDays": "30",
+        "userId": "67d9a928efecd5024be7a638",
+        "userEmail": "soyebarafat0122@gmail.com",
+        "userName": "Soyeb Ahmed Arafat",
+        "createdAt": "2025-05-30T09:53:11.223Z",
+        "status": "Pending",
+        "jobStatus": "Open"
+    },
+    {
+        "_id": "68398007748c8585c02e1cdb",
+        "jobTitle": "A Quran tutor",
+        "teacherType": {
+            "label": "Private Teacher",
+            "value": "private_teacher"
+        },
+        "category": [
+            {
+                "label": "Quran Teacher",
+                "value": "quran_teacher"
+            }
+        ],
+        "jobDescription": "I need a tutor for learning the basics of reading the Quran",
+        "qualifications": "Must be a good tutor",
+        "minSalary": "3",
+        "maxSalary": "5",
+        "genderPreference": {
+            "label": "Male",
+            "value": "male"
+        },
+        "hoursPerWeek": "3",
+        "howManyDays": "30",
+        "userId": "67d9a928efecd5024be7a638",
+        "userEmail": "soyebarafat0122@gmail.com",
+        "userName": "Soyeb Ahmed Arafat",
+        "createdAt": "2025-05-30T09:53:11.223Z",
+        "status": "Pending",
+        "jobStatus": "Open"
+    }
+]

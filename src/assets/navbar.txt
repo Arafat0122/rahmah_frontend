@@ -1,0 +1,55 @@
+[
+    { label: "Home", link: "/" },
+    {
+        label: "Quran ↓",
+        link: "/quran-learning",
+        subMenu: [
+            { label: "Qu Level One", link: "/level-one" },
+            { label: "Qu Level Two", link: "/level-two" },
+            { label: "Qu Level Three", link: "/level-three" },
+            { label: "Qu Level Four", link: "/level-four" },
+        ],
+    },
+    {
+        label: "Arabic ↓",
+        link: "/arabic",
+        subMenu: [
+            { label: "A Level one", link: "/arabic-level-one" },
+            { label: "A Level two", link: "/arabic-level-two" },
+            { label: "A Level three", link: "/arabic-level-three" },
+            { label: "A Level four", link: "/arabic-level-four" },
+        ],
+    },
+    {
+        label: "Fiqh ↓",
+        link: "/fiqh",
+        subMenu: [
+            { label: "Hanafi", link: "/hanafi" },
+            { label: "Shafi", link: "/shafi" },
+            { label: "Maliki", link: "/maliki" },
+            { label: "Hanbali", link: "/hanbali" },
+        ],
+    },
+    {
+        label: "Dawra ↓",
+        link: "/dawra",
+        subMenu: [
+            { label: "1st-semester", link: "/1st-semester" },
+            { label: "2nd-semester", link: "/2nd-semester" },
+            { label: "3rd-semester", link: "/3rd-semester" },
+        ],
+    },
+    {
+        label: "Azhari Curriculum ↓",
+        link: "/azhari-curriculum",
+        subMenu: [
+            { label: "Ibateday", link: "/ibateday" },
+            { label: "Edadi", link: "/edadi" },
+            { label: "Sanabi", link: "/sanabi" },
+        ],
+    },
+    { label: "Find Teachers", link: "/find-teachers" },
+    { label: "Find Jobs", link: "/find-jobs" },
+    { label: "Services", link: "/services" },
+    { label: "Blogs", link: "/blogs" },
+]
