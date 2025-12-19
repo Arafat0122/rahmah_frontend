@@ -17,7 +17,7 @@ Welcome to the Rahmah Institute website! This site is a comprehensive platform d
 
    ```bash
    git clone https://github.com/Arafat0122/rahmah_frontend
-   cd book-vibe
+   cd rahmah_frontend
 2. **Install Dependencies**
 
    ```bash
