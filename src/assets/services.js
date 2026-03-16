@@ -1,4 +1,4 @@
-[
+export const servicesData = [
     {
         "_id": "67db2e9d6ce6959d63dcf8a9",
         "title": "Qur'an recitation with Tazweed",

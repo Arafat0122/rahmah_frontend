@@ -1,4 +1,4 @@
-[
+export const teachersData = [
     {
         "_id": "67d2dac9a5003d8b16d9079b",
         "displayName": "HAFIJUR RAHMAN",
@@ -88,8 +88,6 @@
         "userId": "RI-00174",
         "category": [
             "Arabic Grammars Teacher",
-            "Quran teacher",
-            "Arabic teacher"
         ],
         "englishLevel": "advanced",
         "maxRate": "5",
@@ -123,11 +121,6 @@
         "birthdate": "1994-04-14",
         "category": [
             "Quran teacher",
-            "Arabic teacher",
-            "Hadis Teacher",
-            "Hadith Science Teacher",
-            "Arabic Grammars Teacher",
-            "Fiqh Hanafi Teacher"
         ],
         "certificates": [
             "https://i.ibb.co/d4SMLzrB/image.jpg",
@@ -296,12 +289,126 @@
         "bio": "\u003Ch2\u003E\u003Cem\u003EAssssalamu Alaikum WA Rahmatullah.\u003C/em\u003E\u003C/h2\u003E\u003Ch2\u003E\u003Cbr\u003E\u003C/h2\u003E\u003Ch2\u003EI am an online Arabic teacher. And I love to teach my beloved students this subject. Because this is my favorite subject. I also love to teach Quran recitation and general Islamic knowledge to my beloved students. by the way, I'm \u003Cstrong\u003EHafizul Quran\u003C/strong\u003E, and I have passed my \u003Cstrong\u003EDawra e Hadis\u003C/strong\u003E degree from Madrasah Alhamdulillah. And now, I study at \u003Cstrong style=\"color: blue;\"\u003EAl Azhar University\u003C/strong\u003E, \u003Cem\u003EDepartment of Islamic Sharia and Law\u003C/em\u003E, Egypt. And I have lots of experience in my teaching career. when I was a student in Bangladesh I taught many students in my life. And I love to explain any other kinds of knowledge. Also, all my students love and accept me as a good teacher. And I'm so happy about it. I also teach my students as a good mentor. I always guide them on how they go ahead in their future life. Islamic knowledge it's a good thing and it's so easy when a man can understand\u003Cstrong\u003E the Arabic language.\u003C/strong\u003E Because our Quran, Hadis, and Islamic recommended books are written in \u003Cstrong\u003EArabic language\u003C/strong\u003E. So we have to do it if we don't. Quran recitation it's also a good and main thing. because, when we want to perform prayer, we must recite during the prayer any verse of the Quran. And this is compulsory. so, we have to learn Quran recitation if we don't. And I always with you in this valuable journey. May Allah bless you all.\u003C/h2\u003E\u003Ch2\u003E\u003Cbr\u003E\u003C/h2\u003E\u003Ch2\u003EShukria ❣️\u003C/h2\u003E\u003Cp\u003E\u003Cspan style=\"color: black;\"\u003EThank you thank you\u003C/span\u003E\u003C/p\u003E",
         "birthdate": "2002-05-12",
         "category": [
-            "Quran teacher",
-            "Arabic teacher",
             "Hadis Teacher",
-            "Usule Fiqh Teacher",
-            "Usule Hadis Teacher",
-            "Fiqh Hanafi Teacher"
+        ],
+        "certificates": [
+            "https://i.ibb.co/1G3gxjrh/1000123821.jpg",
+            "https://i.ibb.co/gb5BT5GN/1000123822.jpg",
+            "https://i.ibb.co/Y410q7MR/1000123823.jpg",
+            "https://i.ibb.co/S7fwLfX0/1000123825.jpg",
+            "https://i.ibb.co/8nF4bnnG/1000123824.jpg",
+            "https://i.ibb.co/LhRqgd75/1000123826.jpg",
+            "https://i.ibb.co/h14qSvJ9/1000123827.jpg"
+        ],
+        "coverImage": "https://i.ibb.co/DXxtYpf/inbound8506670343917893817.jpg",
+        "cv": null,
+        "education": [
+            {
+                "degree": "Dawra e Hadis ",
+                "institution": "Madrasah Muhammadia Arabia ",
+                "year": "2023",
+                "description": "Alhamdulillah, I have passed thish degree with excellent Mark"
+            },
+            {
+                "degree": "Alim examination (HSC)",
+                "institution": "Beldi Darul Hadis Fajil Madrasah ",
+                "year": "2022",
+                "description": "Alhamdulillah, I have passed with GPA 5 "
+            },
+            {
+                "degree": "Hifzul Quran",
+                "institution": "Madrasah Muhammadia Arabia (Hifz department)",
+                "year": "2013",
+                "description": "Alhamdulillah, l have completed with very good mark"
+            },
+            {
+                "degree": "Arabic grammar course",
+                "institution": "Markazul Huda Islami Bangladesh ",
+                "year": "2018",
+                "description": "Alhamdulillah, I have passed with excellent mark"
+            },
+            {
+                "degree": " Arabic language course ",
+                "institution": "Language institute of  Al Azhar in Egypt ",
+                "year": "2024",
+                "description": "Alhamdulillah I have passed with excellent Mark"
+            }
+        ],
+        "englishLevel": "intermediate",
+        "experience": [],
+        "facebook": "https://www.facebook.com/abrahman.960?mibextid=ZbWKwL",
+        "faqs": [],
+        "firstname": "Abdur",
+        "galleryImages": [
+            "https://i.ibb.co/LzgwRzH5/inbound6176564814568783416.jpg",
+            "https://i.ibb.co/MkbJmXGP/inbound8493618505557453767.jpg",
+            "https://i.ibb.co/qL0fmDKW/inbound7168592464318838863.jpg"
+        ],
+        "gender": "male",
+        "instagram": null,
+        "jobTitle": "Online Arabic Tutor ",
+        "lastname": "Rahman ",
+        "linkedin": null,
+        "maxRate": "5",
+        "minRate": "3",
+        "nid": "A01113127",
+        "other": null,
+        "permanentAddress": "Dhaka",
+        "permanentCountry": "BD",
+        "phone": "+201557303651",
+        "photoURL": "https://i.ibb.co/F4tYty0d/inbound6673077442194838097.jpg",
+        "presentAddress": "Cairo",
+        "presentCountry": "EG",
+        "skills": [
+            {
+                "name": "Arabic Language ",
+                "level": "90"
+            },
+            {
+                "name": "English language ",
+                "level": "70"
+            },
+            {
+                "name": "Usulul Hadis ",
+                "level": "80"
+            },
+            {
+                "name": "Usulul fiq",
+                "level": "80"
+            }
+        ],
+        "teacherType": "institute",
+        "twitter": null,
+        "username": "Abdur Rahman ",
+        "whatsapp": "+201557303651",
+        "terms": null,
+        "cvUrl": null,
+        "youtubeLink": "https://youtu.be/h3F640kO5F4?si=nsB1N57DkLYCXc_N",
+        "teachingLanguages": [
+            "bangla",
+            "urdu",
+            "english",
+            "arabic"
+        ],
+        "online": false,
+        "onlineAt": "2025-05-27T07:19:13.429Z",
+        "offlineAt": "2025-05-27T07:19:20.540Z",
+        "lastSeen": "2025-05-27T07:19:20.540Z",
+        "totalOnlineSeconds": 13
+    },
+    {
+        "_id": "67da9e911616200fe10ec734",
+        "displayName": "Abdur Rahman ",
+        "email": "abrahman3567@gmail.com",
+        "role": "teacher",
+        "join": "2024-12-06",
+        "status": "accepted",
+        "userId": "RI-00077",
+        "teacherTier": "General",
+        "bio": "\u003Ch2\u003E\u003Cem\u003EAssssalamu Alaikum WA Rahmatullah.\u003C/em\u003E\u003C/h2\u003E\u003Ch2\u003E\u003Cbr\u003E\u003C/h2\u003E\u003Ch2\u003EI am an online Arabic teacher. And I love to teach my beloved students this subject. Because this is my favorite subject. I also love to teach Quran recitation and general Islamic knowledge to my beloved students. by the way, I'm \u003Cstrong\u003EHafizul Quran\u003C/strong\u003E, and I have passed my \u003Cstrong\u003EDawra e Hadis\u003C/strong\u003E degree from Madrasah Alhamdulillah. And now, I study at \u003Cstrong style=\"color: blue;\"\u003EAl Azhar University\u003C/strong\u003E, \u003Cem\u003EDepartment of Islamic Sharia and Law\u003C/em\u003E, Egypt. And I have lots of experience in my teaching career. when I was a student in Bangladesh I taught many students in my life. And I love to explain any other kinds of knowledge. Also, all my students love and accept me as a good teacher. And I'm so happy about it. I also teach my students as a good mentor. I always guide them on how they go ahead in their future life. Islamic knowledge it's a good thing and it's so easy when a man can understand\u003Cstrong\u003E the Arabic language.\u003C/strong\u003E Because our Quran, Hadis, and Islamic recommended books are written in \u003Cstrong\u003EArabic language\u003C/strong\u003E. So we have to do it if we don't. Quran recitation it's also a good and main thing. because, when we want to perform prayer, we must recite during the prayer any verse of the Quran. And this is compulsory. so, we have to learn Quran recitation if we don't. And I always with you in this valuable journey. May Allah bless you all.\u003C/h2\u003E\u003Ch2\u003E\u003Cbr\u003E\u003C/h2\u003E\u003Ch2\u003EShukria ❣️\u003C/h2\u003E\u003Cp\u003E\u003Cspan style=\"color: black;\"\u003EThank you thank you\u003C/span\u003E\u003C/p\u003E",
+        "birthdate": "2002-05-12",
+        "category": [
+            "Hadis Teacher",
         ],
         "certificates": [
             "https://i.ibb.co/1G3gxjrh/1000123821.jpg",
